@@ -9,5 +9,8 @@ Php
 Git
 Github
 
+## Mudanças
+Foi adicionado as variaveis: matricula e email, após isso foi colocado para imprimi-las.
+
 ## Desenvolvedora
 Larissa Guimarães Corrêa 
