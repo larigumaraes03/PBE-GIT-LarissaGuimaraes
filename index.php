@@ -14,4 +14,6 @@ echo "<br>";
 echo "Curso: " . $curso;
 echo "<br>";
 echo "Email do aluna: " . $email;
+
+echo "Aluno cadastrado com sucesso";
 ?>
